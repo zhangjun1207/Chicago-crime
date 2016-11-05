@@ -1,2 +1,2 @@
-# data_incubator_challenge
+# Chicago crime analysis
 This is the repo for data incubator challenge
